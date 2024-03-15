@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\MyTask1\MyTask1\bin\Debug\net6.0\MyTask1.exe
+C:\Users\99455\source\repos\MyTask1\MyTask1\bin\Debug\net6.0\MyTask1.deps.json
+C:\Users\99455\source\repos\MyTask1\MyTask1\bin\Debug\net6.0\MyTask1.runtimeconfig.json
+C:\Users\99455\source\repos\MyTask1\MyTask1\bin\Debug\net6.0\MyTask1.dll
+C:\Users\99455\source\repos\MyTask1\MyTask1\bin\Debug\net6.0\MyTask1.pdb
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\MyTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\MyTask1.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\MyTask1.AssemblyInfo.cs
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\MyTask1.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\MyTask1.dll
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\refint\MyTask1.dll
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\MyTask1.pdb
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\MyTask1.genruntimeconfig.cache
+C:\Users\99455\source\repos\MyTask1\MyTask1\obj\Debug\net6.0\ref\MyTask1.dll
